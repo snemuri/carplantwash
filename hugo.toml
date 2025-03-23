@@ -2,3 +2,8 @@ baseURL = '/'
 languageCode = 'en-us'
 title = 'Car Plant Washing And Carbon Cleaning'
 theme = "ananke"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
