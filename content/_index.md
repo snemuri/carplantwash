@@ -1,6 +1,6 @@
 ---
-title: "Car Plant Washing And Carbon Cleaning"
-description: "Eco-friendly car wash and carbon cleaning services"
+title: "Car Plant Car and Bike Foam Washing"
+description: "Eco-friendly car and bike wash services"
 theme_version: '2.8.2'
 cascade:
   featured_image: '/images/car-wash.jpg'
