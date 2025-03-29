@@ -1,5 +1,5 @@
 ---
-title: "Car Plant Car and Bike Foam Wash"
+title: "Car Plant Car & Bike Foam Wash"
 description: "Eco-friendly car and bike wash services"
 theme_version: '2.8.2'
 cascade:
